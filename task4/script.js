@@ -7,6 +7,5 @@ function func(){
     let p = document.createElement('p')
     p.setAttribute('class', 'style')
     p.innerHTML = `Siz ${getAge} yoshdasiz!`
-    // console.log(p.innerHTML);
     document.body.appendChild(p)
 }

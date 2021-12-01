@@ -1,0 +1,11 @@
+.forChange{
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.changeInput{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
